@@ -1,0 +1,60 @@
+<html>
+        <header>
+            <title>Rumah Makan Ayam Ergo </title>
+            <link rel="stylesheet" href="index.css">
+       </header>
+<body>
+    <div class="container">
+    <div class="header">
+        <h1>Warreg</h1>
+        <p> Warung Bagian Tegal</p> 
+    </div>
+    <div class="content">
+    <div class="daftar">
+        <div class="home"><p>Home</p></div>
+        <div class="home"><p>Menu</p></div>
+        <div class="home"><p>About</p></div>
+        <div class="home"><p>Store</p></div>
+        
+        
+        </div>
+    <img src="images%20(1).jpg">
+        <div class="a">
+        <div class="lapar">
+                <div class="rumah"><p class="isi">PEMESANAN</p></div>
+                <h4>Jangan lupa memesan makanan kami jika ingin memsan klik tombol pesan dibawah. Selamat memesan</h4>
+                <div class="mur"><p class="i">Pesan</p></div>
+        
+            </div>
+        <div class="makanan">
+        <h2>AYAM MANTAP OYE</h2>
+            <p class="y">Hari senin, sisanya apa aja yang penting makan</p>
+            <img class="yoi" src="Resep-Ayam-Geprek-Bensu-min.jpg">
+            <p class="kil">Ayam geprek adalah makanan ayam goreng tepung yang digoreng, lalu diulek atau ditekan, dan dicampur dengan sambal. Kata "geprek" berasal dari bahasa Jawa yang berarti dipukul atau ditekan. 
+Ayam geprek pertama kali dibuat oleh Ibu Ruminah, seorang penjual ayam goreng tepung di Papringan, Yogyakarta, pada tahun 2003. Sebelum dikenal dengan nama ayam geprek, makanan ini disebut ayam gejrot atau ayam ulek. 
+</p>
+            <div class="lol"><p class="anjam">Selengkapnya</p></div>
+        
+            
+            
+            </div>
+        </div>
+    </div>
+            
+    
+    
+    </div>
+    
+    
+
+    
+    
+</body>
+
+
+
+
+
+
+
+</html>

@@ -1,0 +1,82 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    background-color:white;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.header{
+    width: 100%;
+    height:200px;
+    background-color: brown;
+}
+.daftar{
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+    display: flex; 
+    justify-content: space-around;
+}
+img{
+    width: 100%;
+    height: 500px;
+}
+.lapar{
+    background-color: white;
+    width: 25%;
+    height: 200px;
+}
+.rumah{
+    background-color: red;
+    width:100%;
+    height: 50px;
+}
+.isi{
+    justify-content: space-around;
+    display: flex;
+}
+.mur{
+    background-color: deeppink;
+    width: 30%;
+    height: 50px;
+    justify-content: flex-end;
+    
+}
+.makanan{
+    background-color: white;
+    width: 40%;
+    height: 400px;
+
+}
+.a{
+    display: flex;
+}
+h2{
+    justify-content: space-around;
+    display: flex;
+    color: red;
+}
+.y{
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.yoi{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+}
+.kil{
+    color: black;
+}
+.anjam{
+    background-color: orange;
+    width: 20%;
+    height: 30px;
+    justify-content: flex-end;
+}
